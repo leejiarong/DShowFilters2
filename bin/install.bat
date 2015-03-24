@@ -1,0 +1,9 @@
+regsvr32 /s AcerAMRDecoder.ax
+regsvr32 /s AcerAudioDecoder.ax
+regsvr32 /s AcerFLVSplitter.ax
+regsvr32 /s AcerMKVSplitter.ax
+regsvr32 /s AcerMP4Splitter.ax
+regsvr32 /s AcerMpegAudioSplitter.ax
+regsvr32 /s AcerMpegSplitter.ax
+regsvr32 /s AcerSubtitle.dll
+regedit.exe /s AddPlayers_Wow64.reg

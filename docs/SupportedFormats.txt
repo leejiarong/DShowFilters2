@@ -1,0 +1,9 @@
+[File container]
+Acer FLV Splitter:flv
+Acer MKV Splitter:mkv
+Acer MP4 Splitter:3gp,3g2,mov,mp4
+Acer Mpeg Splitter:m2ts,mpg,ts
+
+[Audio codec]
+Acer Audio Decoder:ac3,dts...
+Acer AMR Decoder:amr

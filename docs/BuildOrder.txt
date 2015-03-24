@@ -1,0 +1,19 @@
+Use "Release Unicode | Win32" to build them in this order:
+. deccs
+. dsutil
+. subpic
+. zlib
+. subtitles
+. filters_vs2008.sln
+	. BaseClasses
+	. basesplitter
+	. flvsplitter(FLV splitter)
+	. matroskasplitter(MKV splitter)
+	. mp4splitter(MP4 splitter)
+	. mpegsplitter(Mpeg splitter)
+	. basevideofilter
+	. liba52,libdts...
+	. mpadecfilter(Mpeg Auido Decoder)
+	. vsfilter(Subtitle Transform)
+. libmonodshow
+. amr_pack(AMR Audio Decoder)

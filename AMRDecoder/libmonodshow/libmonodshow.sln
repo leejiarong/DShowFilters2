@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmonodshow", "libmonodshow.vcproj", "{5349B4FF-ED9B-4912-8058-550AF3E2DB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-Shared|Win32 = Debug-Shared|Win32
+		Debug-Static|Win32 = Debug-Static|Win32
+		Release-Shared|Win32 = Release-Shared|Win32
+		Release-Static|Win32 = Release-Static|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Debug-Shared|Win32.ActiveCfg = Debug-Shared|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Debug-Shared|Win32.Build.0 = Debug-Shared|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Debug-Static|Win32.ActiveCfg = Debug-Static|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Debug-Static|Win32.Build.0 = Debug-Static|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Release-Shared|Win32.ActiveCfg = Release-Shared|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Release-Shared|Win32.Build.0 = Release-Shared|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Release-Static|Win32.ActiveCfg = Release-Static|Win32
+		{5349B4FF-ED9B-4912-8058-550AF3E2DB80}.Release-Static|Win32.Build.0 = Release-Static|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
